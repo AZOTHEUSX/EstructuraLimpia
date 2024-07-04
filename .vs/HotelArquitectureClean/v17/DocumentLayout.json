@@ -1,0 +1,210 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\R\\Documents\\Programaci\u00F3n 2\\HotelArquitectureClean\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A436DDA2-C289-4B58-BE76-D18AF87E07C8}|HotelArquitectureClean.Piso.Application\\HotelArquitectureClean.Piso.Application.csproj|c:\\users\\r\\documents\\programaci\u00F3n 2\\hotelarquitectureclean\\hotelarquitectureclean.piso.application\\core\\serviceresult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A436DDA2-C289-4B58-BE76-D18AF87E07C8}|HotelArquitectureClean.Piso.Application\\HotelArquitectureClean.Piso.Application.csproj|solutionrelative:hotelarquitectureclean.piso.application\\core\\serviceresult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4F1577CD-7868-494F-897A-1875822AE8E2}|HotelArquitectureClean.Infraestructure\\HotelArquitectureClean.Infraestructure.csproj|c:\\users\\r\\documents\\programaci\u00F3n 2\\hotelarquitectureclean\\hotelarquitectureclean.infraestructure\\notification\\services\\smsservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4F1577CD-7868-494F-897A-1875822AE8E2}|HotelArquitectureClean.Infraestructure\\HotelArquitectureClean.Infraestructure.csproj|solutionrelative:hotelarquitectureclean.infraestructure\\notification\\services\\smsservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4F1577CD-7868-494F-897A-1875822AE8E2}|HotelArquitectureClean.Infraestructure\\HotelArquitectureClean.Infraestructure.csproj|c:\\users\\r\\documents\\programaci\u00F3n 2\\hotelarquitectureclean\\hotelarquitectureclean.infraestructure\\notification\\services\\emailservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4F1577CD-7868-494F-897A-1875822AE8E2}|HotelArquitectureClean.Infraestructure\\HotelArquitectureClean.Infraestructure.csproj|solutionrelative:hotelarquitectureclean.infraestructure\\notification\\services\\emailservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4F1577CD-7868-494F-897A-1875822AE8E2}|HotelArquitectureClean.Infraestructure\\HotelArquitectureClean.Infraestructure.csproj|c:\\users\\r\\documents\\programaci\u00F3n 2\\hotelarquitectureclean\\hotelarquitectureclean.infraestructure\\notification\\interfaces\\inotificationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4F1577CD-7868-494F-897A-1875822AE8E2}|HotelArquitectureClean.Infraestructure\\HotelArquitectureClean.Infraestructure.csproj|solutionrelative:hotelarquitectureclean.infraestructure\\notification\\interfaces\\inotificationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4F1577CD-7868-494F-897A-1875822AE8E2}|HotelArquitectureClean.Infraestructure\\HotelArquitectureClean.Infraestructure.csproj|c:\\users\\r\\documents\\programaci\u00F3n 2\\hotelarquitectureclean\\hotelarquitectureclean.infraestructure\\logger\\services\\loggerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4F1577CD-7868-494F-897A-1875822AE8E2}|HotelArquitectureClean.Infraestructure\\HotelArquitectureClean.Infraestructure.csproj|solutionrelative:hotelarquitectureclean.infraestructure\\logger\\services\\loggerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4F1577CD-7868-494F-897A-1875822AE8E2}|HotelArquitectureClean.Infraestructure\\HotelArquitectureClean.Infraestructure.csproj|c:\\users\\r\\documents\\programaci\u00F3n 2\\hotelarquitectureclean\\hotelarquitectureclean.infraestructure\\logger\\interface\\iloggerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4F1577CD-7868-494F-897A-1875822AE8E2}|HotelArquitectureClean.Infraestructure\\HotelArquitectureClean.Infraestructure.csproj|solutionrelative:hotelarquitectureclean.infraestructure\\logger\\interface\\iloggerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4F1577CD-7868-494F-897A-1875822AE8E2}|HotelArquitectureClean.Infraestructure\\HotelArquitectureClean.Infraestructure.csproj|c:\\users\\r\\documents\\programaci\u00F3n 2\\hotelarquitectureclean\\hotelarquitectureclean.infraestructure\\base\\notificationresult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4F1577CD-7868-494F-897A-1875822AE8E2}|HotelArquitectureClean.Infraestructure\\HotelArquitectureClean.Infraestructure.csproj|solutionrelative:hotelarquitectureclean.infraestructure\\base\\notificationresult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8C9D1BD4-8FFD-4B95-B145-E6D81DDD54DD}|HotelArquitectureClean.Common.Data\\HotelArquitectureClean.Common.Data.csproj|c:\\users\\r\\documents\\programaci\u00F3n 2\\hotelarquitectureclean\\hotelarquitectureclean.common.data\\repository\\ibaserepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8C9D1BD4-8FFD-4B95-B145-E6D81DDD54DD}|HotelArquitectureClean.Common.Data\\HotelArquitectureClean.Common.Data.csproj|solutionrelative:hotelarquitectureclean.common.data\\repository\\ibaserepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8C9D1BD4-8FFD-4B95-B145-E6D81DDD54DD}|HotelArquitectureClean.Common.Data\\HotelArquitectureClean.Common.Data.csproj|c:\\users\\r\\documents\\programaci\u00F3n 2\\hotelarquitectureclean\\hotelarquitectureclean.common.data\\base\\auditentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8C9D1BD4-8FFD-4B95-B145-E6D81DDD54DD}|HotelArquitectureClean.Common.Data\\HotelArquitectureClean.Common.Data.csproj|solutionrelative:hotelarquitectureclean.common.data\\base\\auditentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8C9D1BD4-8FFD-4B95-B145-E6D81DDD54DD}|HotelArquitectureClean.Common.Data\\HotelArquitectureClean.Common.Data.csproj|c:\\users\\r\\documents\\programaci\u00F3n 2\\hotelarquitectureclean\\hotelarquitectureclean.common.data\\base\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8C9D1BD4-8FFD-4B95-B145-E6D81DDD54DD}|HotelArquitectureClean.Common.Data\\HotelArquitectureClean.Common.Data.csproj|solutionrelative:hotelarquitectureclean.common.data\\base\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 270,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{004be353-6879-467c-9d1e-9ac23cdf6d49}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ServiceResult.cs",
+              "DocumentMoniker": "C:\\Users\\R\\Documents\\Programaci\u00F3n 2\\HotelArquitectureClean\\HotelArquitectureClean.Piso.Application\\Core\\ServiceResult.cs",
+              "RelativeDocumentMoniker": "HotelArquitectureClean.Piso.Application\\Core\\ServiceResult.cs",
+              "ToolTip": "C:\\Users\\R\\Documents\\Programaci\u00F3n 2\\HotelArquitectureClean\\HotelArquitectureClean.Piso.Application\\Core\\ServiceResult.cs",
+              "RelativeToolTip": "HotelArquitectureClean.Piso.Application\\Core\\ServiceResult.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-04T03:28:43.746Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "SmsService.cs",
+              "DocumentMoniker": "C:\\Users\\R\\Documents\\Programaci\u00F3n 2\\HotelArquitectureClean\\HotelArquitectureClean.Infraestructure\\Notification\\Services\\SmsService.cs",
+              "RelativeDocumentMoniker": "HotelArquitectureClean.Infraestructure\\Notification\\Services\\SmsService.cs",
+              "ToolTip": "C:\\Users\\R\\Documents\\Programaci\u00F3n 2\\HotelArquitectureClean\\HotelArquitectureClean.Infraestructure\\Notification\\Services\\SmsService.cs",
+              "RelativeToolTip": "HotelArquitectureClean.Infraestructure\\Notification\\Services\\SmsService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-04T03:19:04.499Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "EmailService.cs",
+              "DocumentMoniker": "C:\\Users\\R\\Documents\\Programaci\u00F3n 2\\HotelArquitectureClean\\HotelArquitectureClean.Infraestructure\\Notification\\Services\\EmailService.cs",
+              "RelativeDocumentMoniker": "HotelArquitectureClean.Infraestructure\\Notification\\Services\\EmailService.cs",
+              "ToolTip": "C:\\Users\\R\\Documents\\Programaci\u00F3n 2\\HotelArquitectureClean\\HotelArquitectureClean.Infraestructure\\Notification\\Services\\EmailService.cs",
+              "RelativeToolTip": "HotelArquitectureClean.Infraestructure\\Notification\\Services\\EmailService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-04T03:17:26.932Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "LoggerService.cs",
+              "DocumentMoniker": "C:\\Users\\R\\Documents\\Programaci\u00F3n 2\\HotelArquitectureClean\\HotelArquitectureClean.Infraestructure\\Logger\\Services\\LoggerService.cs",
+              "RelativeDocumentMoniker": "HotelArquitectureClean.Infraestructure\\Logger\\Services\\LoggerService.cs",
+              "ToolTip": "C:\\Users\\R\\Documents\\Programaci\u00F3n 2\\HotelArquitectureClean\\HotelArquitectureClean.Infraestructure\\Logger\\Services\\LoggerService.cs",
+              "RelativeToolTip": "HotelArquitectureClean.Infraestructure\\Logger\\Services\\LoggerService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-04T03:15:00.283Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "IloggerService.cs",
+              "DocumentMoniker": "C:\\Users\\R\\Documents\\Programaci\u00F3n 2\\HotelArquitectureClean\\HotelArquitectureClean.Infraestructure\\Logger\\Interface\\IloggerService.cs",
+              "RelativeDocumentMoniker": "HotelArquitectureClean.Infraestructure\\Logger\\Interface\\IloggerService.cs",
+              "ToolTip": "C:\\Users\\R\\Documents\\Programaci\u00F3n 2\\HotelArquitectureClean\\HotelArquitectureClean.Infraestructure\\Logger\\Interface\\IloggerService.cs",
+              "RelativeToolTip": "HotelArquitectureClean.Infraestructure\\Logger\\Interface\\IloggerService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-04T03:14:15.323Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "INotificationService.cs",
+              "DocumentMoniker": "C:\\Users\\R\\Documents\\Programaci\u00F3n 2\\HotelArquitectureClean\\HotelArquitectureClean.Infraestructure\\Notification\\Interfaces\\INotificationService.cs",
+              "RelativeDocumentMoniker": "HotelArquitectureClean.Infraestructure\\Notification\\Interfaces\\INotificationService.cs",
+              "ToolTip": "C:\\Users\\R\\Documents\\Programaci\u00F3n 2\\HotelArquitectureClean\\HotelArquitectureClean.Infraestructure\\Notification\\Interfaces\\INotificationService.cs",
+              "RelativeToolTip": "HotelArquitectureClean.Infraestructure\\Notification\\Interfaces\\INotificationService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-04T03:04:08.621Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "NotificationResult.cs",
+              "DocumentMoniker": "C:\\Users\\R\\Documents\\Programaci\u00F3n 2\\HotelArquitectureClean\\HotelArquitectureClean.Infraestructure\\Base\\NotificationResult.cs",
+              "RelativeDocumentMoniker": "HotelArquitectureClean.Infraestructure\\Base\\NotificationResult.cs",
+              "ToolTip": "C:\\Users\\R\\Documents\\Programaci\u00F3n 2\\HotelArquitectureClean\\HotelArquitectureClean.Infraestructure\\Base\\NotificationResult.cs",
+              "RelativeToolTip": "HotelArquitectureClean.Infraestructure\\Base\\NotificationResult.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-04T03:00:42.361Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "IBaseRepository.cs",
+              "DocumentMoniker": "C:\\Users\\R\\Documents\\Programaci\u00F3n 2\\HotelArquitectureClean\\HotelArquitectureClean.Common.Data\\Repository\\IBaseRepository.cs",
+              "RelativeDocumentMoniker": "HotelArquitectureClean.Common.Data\\Repository\\IBaseRepository.cs",
+              "ToolTip": "C:\\Users\\R\\Documents\\Programaci\u00F3n 2\\HotelArquitectureClean\\HotelArquitectureClean.Common.Data\\Repository\\IBaseRepository.cs",
+              "RelativeToolTip": "HotelArquitectureClean.Common.Data\\Repository\\IBaseRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-04T02:48:24.314Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "AuditEntity.cs",
+              "DocumentMoniker": "C:\\Users\\R\\Documents\\Programaci\u00F3n 2\\HotelArquitectureClean\\HotelArquitectureClean.Common.Data\\Base\\AuditEntity.cs",
+              "RelativeDocumentMoniker": "HotelArquitectureClean.Common.Data\\Base\\AuditEntity.cs",
+              "ToolTip": "C:\\Users\\R\\Documents\\Programaci\u00F3n 2\\HotelArquitectureClean\\HotelArquitectureClean.Common.Data\\Base\\AuditEntity.cs",
+              "RelativeToolTip": "HotelArquitectureClean.Common.Data\\Base\\AuditEntity.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAABBAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-04T02:38:34.588Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "BaseEntity.cs",
+              "DocumentMoniker": "C:\\Users\\R\\Documents\\Programaci\u00F3n 2\\HotelArquitectureClean\\HotelArquitectureClean.Common.Data\\Base\\BaseEntity.cs",
+              "RelativeDocumentMoniker": "HotelArquitectureClean.Common.Data\\Base\\BaseEntity.cs",
+              "ToolTip": "C:\\Users\\R\\Documents\\Programaci\u00F3n 2\\HotelArquitectureClean\\HotelArquitectureClean.Common.Data\\Base\\BaseEntity.cs",
+              "RelativeToolTip": "HotelArquitectureClean.Common.Data\\Base\\BaseEntity.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-04T02:37:20.125Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
