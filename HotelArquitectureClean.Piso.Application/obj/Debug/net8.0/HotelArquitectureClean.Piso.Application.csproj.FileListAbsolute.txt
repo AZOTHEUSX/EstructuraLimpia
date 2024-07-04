@@ -1,0 +1,11 @@
+C:\Users\R\Documents\Programación 2\HotelArquitectureClean\HotelArquitectureClean.Piso.Application\bin\Debug\net8.0\HotelArquitectureClean.Piso.Application.deps.json
+C:\Users\R\Documents\Programación 2\HotelArquitectureClean\HotelArquitectureClean.Piso.Application\bin\Debug\net8.0\HotelArquitectureClean.Piso.Application.dll
+C:\Users\R\Documents\Programación 2\HotelArquitectureClean\HotelArquitectureClean.Piso.Application\bin\Debug\net8.0\HotelArquitectureClean.Piso.Application.pdb
+C:\Users\R\Documents\Programación 2\HotelArquitectureClean\HotelArquitectureClean.Piso.Application\obj\Debug\net8.0\HotelArquitectureClean.Piso.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\R\Documents\Programación 2\HotelArquitectureClean\HotelArquitectureClean.Piso.Application\obj\Debug\net8.0\HotelArquitectureClean.Piso.Application.AssemblyInfoInputs.cache
+C:\Users\R\Documents\Programación 2\HotelArquitectureClean\HotelArquitectureClean.Piso.Application\obj\Debug\net8.0\HotelArquitectureClean.Piso.Application.AssemblyInfo.cs
+C:\Users\R\Documents\Programación 2\HotelArquitectureClean\HotelArquitectureClean.Piso.Application\obj\Debug\net8.0\HotelArquitectureClean.Piso.Application.csproj.CoreCompileInputs.cache
+C:\Users\R\Documents\Programación 2\HotelArquitectureClean\HotelArquitectureClean.Piso.Application\obj\Debug\net8.0\HotelArquitectureClean.Piso.Application.dll
+C:\Users\R\Documents\Programación 2\HotelArquitectureClean\HotelArquitectureClean.Piso.Application\obj\Debug\net8.0\refint\HotelArquitectureClean.Piso.Application.dll
+C:\Users\R\Documents\Programación 2\HotelArquitectureClean\HotelArquitectureClean.Piso.Application\obj\Debug\net8.0\HotelArquitectureClean.Piso.Application.pdb
+C:\Users\R\Documents\Programación 2\HotelArquitectureClean\HotelArquitectureClean.Piso.Application\obj\Debug\net8.0\ref\HotelArquitectureClean.Piso.Application.dll

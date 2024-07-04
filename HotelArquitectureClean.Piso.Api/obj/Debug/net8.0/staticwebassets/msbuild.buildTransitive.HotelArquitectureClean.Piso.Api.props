@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\HotelArquitectureClean.Piso.Api.props" />
+</Project>

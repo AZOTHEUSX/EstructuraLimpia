@@ -1,0 +1,15 @@
+C:\Users\R\Documents\Programación 2\HotelArquitectureClean\HotelArquitectureClean.Piso.Domain\bin\Debug\net8.0\HotelArquitectureClean.Piso.Domain.deps.json
+C:\Users\R\Documents\Programación 2\HotelArquitectureClean\HotelArquitectureClean.Piso.Domain\bin\Debug\net8.0\HotelArquitectureClean.Piso.Domain.dll
+C:\Users\R\Documents\Programación 2\HotelArquitectureClean\HotelArquitectureClean.Piso.Domain\bin\Debug\net8.0\HotelArquitectureClean.Piso.Domain.pdb
+C:\Users\R\Documents\Programación 2\HotelArquitectureClean\HotelArquitectureClean.Piso.Domain\bin\Debug\net8.0\HotelArquitectureClean.Common.Data.dll
+C:\Users\R\Documents\Programación 2\HotelArquitectureClean\HotelArquitectureClean.Piso.Domain\bin\Debug\net8.0\HotelArquitectureClean.Common.Data.pdb
+C:\Users\R\Documents\Programación 2\HotelArquitectureClean\HotelArquitectureClean.Piso.Domain\obj\Debug\net8.0\HotelArquitectureClean.Piso.Domain.csproj.AssemblyReference.cache
+C:\Users\R\Documents\Programación 2\HotelArquitectureClean\HotelArquitectureClean.Piso.Domain\obj\Debug\net8.0\HotelArquitectureClean.Piso.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\R\Documents\Programación 2\HotelArquitectureClean\HotelArquitectureClean.Piso.Domain\obj\Debug\net8.0\HotelArquitectureClean.Piso.Domain.AssemblyInfoInputs.cache
+C:\Users\R\Documents\Programación 2\HotelArquitectureClean\HotelArquitectureClean.Piso.Domain\obj\Debug\net8.0\HotelArquitectureClean.Piso.Domain.AssemblyInfo.cs
+C:\Users\R\Documents\Programación 2\HotelArquitectureClean\HotelArquitectureClean.Piso.Domain\obj\Debug\net8.0\HotelArquitectureClean.Piso.Domain.csproj.CoreCompileInputs.cache
+C:\Users\R\Documents\Programación 2\HotelArquitectureClean\HotelArquitectureClean.Piso.Domain\obj\Debug\net8.0\HotelArq.29A4D509.Up2Date
+C:\Users\R\Documents\Programación 2\HotelArquitectureClean\HotelArquitectureClean.Piso.Domain\obj\Debug\net8.0\HotelArquitectureClean.Piso.Domain.dll
+C:\Users\R\Documents\Programación 2\HotelArquitectureClean\HotelArquitectureClean.Piso.Domain\obj\Debug\net8.0\refint\HotelArquitectureClean.Piso.Domain.dll
+C:\Users\R\Documents\Programación 2\HotelArquitectureClean\HotelArquitectureClean.Piso.Domain\obj\Debug\net8.0\HotelArquitectureClean.Piso.Domain.pdb
+C:\Users\R\Documents\Programación 2\HotelArquitectureClean\HotelArquitectureClean.Piso.Domain\obj\Debug\net8.0\ref\HotelArquitectureClean.Piso.Domain.dll

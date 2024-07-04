@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "HotelArquitectureClean.Piso.Domain/1.0.0": {
+        "dependencies": {
+          "HotelArquitectureClean.Common.Data": "1.0.0"
+        },
+        "runtime": {
+          "HotelArquitectureClean.Piso.Domain.dll": {}
+        }
+      },
+      "HotelArquitectureClean.Common.Data/1.0.0": {
+        "runtime": {
+          "HotelArquitectureClean.Common.Data.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "HotelArquitectureClean.Piso.Domain/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "HotelArquitectureClean.Common.Data/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

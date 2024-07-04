@@ -1,0 +1,11 @@
+C:\Users\R\Documents\Programación 2\HotelArquitectureClean\HotelArquitectureClean.Common.Data\bin\Debug\net8.0\HotelArquitectureClean.Common.Data.deps.json
+C:\Users\R\Documents\Programación 2\HotelArquitectureClean\HotelArquitectureClean.Common.Data\bin\Debug\net8.0\HotelArquitectureClean.Common.Data.dll
+C:\Users\R\Documents\Programación 2\HotelArquitectureClean\HotelArquitectureClean.Common.Data\bin\Debug\net8.0\HotelArquitectureClean.Common.Data.pdb
+C:\Users\R\Documents\Programación 2\HotelArquitectureClean\HotelArquitectureClean.Common.Data\obj\Debug\net8.0\HotelArquitectureClean.Common.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\R\Documents\Programación 2\HotelArquitectureClean\HotelArquitectureClean.Common.Data\obj\Debug\net8.0\HotelArquitectureClean.Common.Data.AssemblyInfoInputs.cache
+C:\Users\R\Documents\Programación 2\HotelArquitectureClean\HotelArquitectureClean.Common.Data\obj\Debug\net8.0\HotelArquitectureClean.Common.Data.AssemblyInfo.cs
+C:\Users\R\Documents\Programación 2\HotelArquitectureClean\HotelArquitectureClean.Common.Data\obj\Debug\net8.0\HotelArquitectureClean.Common.Data.csproj.CoreCompileInputs.cache
+C:\Users\R\Documents\Programación 2\HotelArquitectureClean\HotelArquitectureClean.Common.Data\obj\Debug\net8.0\HotelArquitectureClean.Common.Data.dll
+C:\Users\R\Documents\Programación 2\HotelArquitectureClean\HotelArquitectureClean.Common.Data\obj\Debug\net8.0\refint\HotelArquitectureClean.Common.Data.dll
+C:\Users\R\Documents\Programación 2\HotelArquitectureClean\HotelArquitectureClean.Common.Data\obj\Debug\net8.0\HotelArquitectureClean.Common.Data.pdb
+C:\Users\R\Documents\Programación 2\HotelArquitectureClean\HotelArquitectureClean.Common.Data\obj\Debug\net8.0\ref\HotelArquitectureClean.Common.Data.dll
